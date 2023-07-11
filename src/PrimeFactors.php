@@ -18,5 +18,6 @@ class PrimeFactors
         }
 
         return $factors;
+        
     }
 }
